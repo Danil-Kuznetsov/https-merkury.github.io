@@ -1302,3 +1302,8 @@ html {
     top: 66rem;
   }
 }
+@media (max-width: 351px) {
+  .main .Dash {
+    top: 76rem;
+  }
+}
